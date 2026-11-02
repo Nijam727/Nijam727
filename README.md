@@ -49,7 +49,7 @@ const nijam = {
 ## 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,linux,ubuntu,nginx,apache,git,github,vscode,docker,bash&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,linux,ubuntu,nginx,git,github,vscode,docker,bash&perline=8&theme=dark" />
 </p>
 
 <p align="center">
