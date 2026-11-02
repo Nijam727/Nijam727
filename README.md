@@ -46,12 +46,7 @@ const nijam = {
 ### 🍓 statistik
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nijam727&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=16&bg_color=FFF0F6&title_color=FF8FAB&icon_color=CDB4DB&text_color=5A4A78&custom_title=Statistik%20Nijam%20%E2%9C%A8" />
   <img height="170" src="https://streak-stats.demolab.com?user=Nijam727&hide_border=true&border_radius=16&background=FFF0F6&ring=FF8FAB&fire=CDB4DB&currStreakLabel=FF8FAB&sideLabels=5A4A78&dates=9A8AB0&sideNums=5A4A78&currStreakNum=5A4A78" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nijam727&bg_color=FFF0F6&color=5A4A78&line=FF8FAB&point=CDB4DB&area=true&area_color=FFC8DD&hide_border=true&radius=16&custom_title=Jejak%20kontribusi%20%F0%9F%90%BE" />
 </p>
 
 ---
